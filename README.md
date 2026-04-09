@@ -6,8 +6,8 @@ This repository contains college lab exercises for Algorithms and Problem Solvin
 
 This repository serves as a collection of practical implementations and solutions for various algorithmic problems and data structures covered in the Algorithms and Problem Solving Lab course. All exercises are designed to run on Google Colab, making them accessible and easy to execute without any local setup.
 
-
-[LeetCode](https://leetcode.com/u/WeeD_/)
+# LeetCode
+Here's my [LeetCode](https://leetcode.com/u/WeeD_/) Account
 
 ## 📊 LeetCode Progress
 
