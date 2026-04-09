@@ -1,4 +1,4 @@
-![My LeetCode](https://leetcode.com/u/WeeD_/)
+[LeetCode](https://leetcode.com/u/WeeD_/)
 
 ## 📊 LeetCode Progress
 
