@@ -2,10 +2,10 @@
 
 ## 📊 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/xoxo666?theme=dark&font=Source%20Code%20Pro&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/WeeD_?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
 
-![LeetCode problems solved](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Problems%20Solved&query=solved&url=https://leetcode-stats-api.herokuapp.com/xoxo666)
+![LeetCode problems solved](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Problems%20Solved&query=solved&url=https://leetcode-stats-api.herokuapp.com/WeeD_)
 
 
 
